@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Arie\Kerja\Deploy\CRMAWO</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="401.aspx">
+      <publishTime>05/05/2017 17:13:15</publishTime>
+    </File>
+    <File Include="bin/CRMAWO.dll">
+      <publishTime>08/24/2018 15:50:29</publishTime>
+    </File>
+    <File Include="bin/EPPlus.dll">
+      <publishTime>07/14/2016 10:21:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.QualityTools.Testing.Fakes.dll">
+      <publishTime>07/07/2015 00:51:38</publishTime>
+    </File>
+    <File Include="Campaign.aspx">
+      <publishTime>04/27/2017 13:19:33</publishTime>
+    </File>
+    <File Include="CampaignCreate.aspx">
+      <publishTime>06/08/2017 13:59:18</publishTime>
+    </File>
+    <File Include="CampaignEdit.aspx">
+      <publishTime>05/22/2017 15:28:25</publishTime>
+    </File>
+    <File Include="CampaignUpdate.aspx">
+      <publishTime>05/22/2017 15:40:21</publishTime>
+    </File>
+    <File Include="Customer.aspx">
+      <publishTime>08/24/2018 15:49:36</publishTime>
+    </File>
+    <File Include="Customer2.aspx">
+      <publishTime>08/24/2018 14:14:13</publishTime>
+    </File>
+    <File Include="CustomerExport.aspx">
+      <publishTime>05/08/2017 16:24:17</publishTime>
+    </File>
+    <File Include="CustomerFlwUp.aspx">
+      <publishTime>05/24/2017 15:55:50</publishTime>
+    </File>
+    <File Include="CustomerSpv.aspx">
+      <publishTime>01/30/2018 20:43:53</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/17/2017 15:17:02</publishTime>
+    </File>
+    <File Include="Layout.Master">
+      <publishTime>04/26/2017 14:02:23</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>06/05/2017 13:10:20</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>04/17/2017 15:17:34</publishTime>
+    </File>
+    <File Include="Question.aspx">
+      <publishTime>05/22/2017 12:02:09</publishTime>
+    </File>
+    <File Include="QuestionEdit.aspx">
+      <publishTime>04/27/2017 16:27:03</publishTime>
+    </File>
+    <File Include="QuestionUpload.aspx">
+      <publishTime>05/09/2017 13:11:48</publishTime>
+    </File>
+    <File Include="Styles/css/AdminLTE.min.css">
+      <publishTime>09/09/2016 12:25:33</publishTime>
+    </File>
+    <File Include="Styles/css/bootstrap-toggle.min.css">
+      <publishTime>03/17/2016 14:50:38</publishTime>
+    </File>
+    <File Include="Styles/css/bootstrap.min.css">
+      <publishTime>09/09/2016 12:25:33</publishTime>
+    </File>
+    <File Include="Styles/css/dataTables.bootstrap.css">
+      <publishTime>01/03/2018 17:09:39</publishTime>
+    </File>
+    <File Include="Styles/css/datepicker3.css">
+      <publishTime>09/05/2016 09:44:22</publishTime>
+    </File>
+    <File Include="Styles/css/daterangepicker.css">
+      <publishTime>09/05/2016 09:44:22</publishTime>
+    </File>
+    <File Include="Styles/css/fixedColumns.dataTables.min.css">
+      <publishTime>11/02/2016 16:32:40</publishTime>
+    </File>
+    <File Include="Styles/css/font-awesome.min.css">
+      <publishTime>09/09/2016 12:25:33</publishTime>
+    </File>
+    <File Include="Styles/css/ionicons.min.css">
+      <publishTime>09/09/2016 12:25:33</publishTime>
+    </File>
+    <File Include="Styles/css/select2.min.css">
+      <publishTime>09/09/2016 12:25:33</publishTime>
+    </File>
+    <File Include="Styles/css/sweetalert.css">
+      <publishTime>12/15/2016 01:39:02</publishTime>
+    </File>
+    <File Include="Styles/css/_all-skins.min.css">
+      <publishTime>09/09/2016 12:25:33</publishTime>
+    </File>
+    <File Include="Styles/fonts/fontawesome-webfont.ttf">
+      <publishTime>09/09/2016 12:25:43</publishTime>
+    </File>
+    <File Include="Styles/fonts/fontawesome-webfont.woff">
+      <publishTime>09/09/2016 12:25:43</publishTime>
+    </File>
+    <File Include="Styles/fonts/fontawesome-webfont.woff2">
+      <publishTime>09/09/2016 12:25:43</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/16/2016 14:52:30</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/16/2016 14:52:22</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>09/16/2016 14:52:16</publishTime>
+    </File>
+    <File Include="Styles/img/logo.png">
+      <publishTime>02/27/2017 15:02:10</publishTime>
+    </File>
+    <File Include="Styles/js/app.min.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/bootstrap-datepicker.js">
+      <publishTime>09/05/2016 09:44:22</publishTime>
+    </File>
+    <File Include="Styles/js/bootstrap-toggle.min.js">
+      <publishTime>03/17/2016 14:50:38</publishTime>
+    </File>
+    <File Include="Styles/js/bootstrap.min.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/canvasjs.min.js">
+      <publishTime>03/09/2017 13:55:56</publishTime>
+    </File>
+    <File Include="Styles/js/dataTables.bootstrap.min.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/dataTables.fixedColumns.min.js">
+      <publishTime>11/02/2016 16:20:25</publishTime>
+    </File>
+    <File Include="Styles/js/daterangepicker.js">
+      <publishTime>09/05/2016 09:44:22</publishTime>
+    </File>
+    <File Include="Styles/js/demo.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/fastclick.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/jquery-2.2.3.min.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/jquery.dataTables.min.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/jquery.slimscroll.min.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/moment.min.js">
+      <publishTime>09/05/2016 09:44:22</publishTime>
+    </File>
+    <File Include="Styles/js/select2.full.min.js">
+      <publishTime>09/09/2016 12:25:54</publishTime>
+    </File>
+    <File Include="Styles/js/sweetalert.min.js">
+      <publishTime>12/15/2016 01:39:02</publishTime>
+    </File>
+    <File Include="User.aspx">
+      <publishTime>01/03/2018 16:50:38</publishTime>
+    </File>
+    <File Include="UserCreate.aspx">
+      <publishTime>01/03/2018 16:23:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/24/2018 15:50:30</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>05/02/2017 13:36:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Rifano\Publish\CRMAWO</_PublishTargetUrl>
+    <History>True|2023-04-04T01:30:33.5921396Z;True|2023-03-30T13:25:18.0216939+07:00;True|2023-03-24T08:13:01.5267598+07:00;True|2023-03-20T08:57:55.4766016+07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="401.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="bin/CRMAWO.dll">
+      <publishTime>04/04/2023 08:30:32</publishTime>
+    </File>
+    <File Include="bin/CRMAWO.pdb">
+      <publishTime>04/04/2023 08:30:32</publishTime>
+    </File>
+    <File Include="bin/EPPlus.dll">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>03/03/2023 13:26:01</publishTime>
+    </File>
+    <File Include="Campaign.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="CampaignCreate.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="CampaignEdit.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="CampaignUpdate.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Customer.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Customer2.aspx">
+      <publishTime>03/30/2023 14:09:23</publishTime>
+    </File>
+    <File Include="CustomerExport.aspx">
+      <publishTime>03/17/2023 14:12:43</publishTime>
+    </File>
+    <File Include="CustomerFlwUp.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="CustomerSpv.aspx">
+      <publishTime>03/30/2023 14:23:39</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Layout.Master">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Question.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="QuestionEdit.aspx">
+      <publishTime>03/30/2023 14:01:25</publishTime>
+    </File>
+    <File Include="QuestionUpload.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="ReassignedBucket.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/AdminLTE.min.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/bootstrap-toggle.min.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/bootstrap.min.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/dataTables.bootstrap.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/datepicker3.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/daterangepicker.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/fixedColumns.dataTables.min.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/font-awesome.min.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/ionicons.min.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/select2.min.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/sweetalert.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/css/_all-skins.min.css">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/fonts/fontawesome-webfont.ttf">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/fonts/fontawesome-webfont.woff">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/fonts/fontawesome-webfont.woff2">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/img/logo.png">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/app.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/bootstrap-datepicker.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/bootstrap-toggle.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/bootstrap.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/canvasjs.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/dataTables.bootstrap.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/dataTables.fixedColumns.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/daterangepicker.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/demo.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/fastclick.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/jquery-2.2.3.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/jquery.dataTables.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/jquery.slimscroll.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/moment.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/select2.full.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Styles/js/sweetalert.min.js">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="User.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="UserCreate.aspx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/04/2023 08:30:32</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>03/03/2023 13:26:00</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
